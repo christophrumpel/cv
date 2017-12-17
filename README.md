@@ -5,6 +5,8 @@ This is why I will provide everything you need to know about myself here. What p
 
 *Note: If you don't like Emojis, this will be hard for you*
 
+<img src="images/zagreb_talk_cr1.jpeg" alt="Photo of Christoph Rumpel on stage" />
+
 ## This is me 👨
 
 * **Name**: Christoph Rumpel
