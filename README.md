@@ -8,7 +8,7 @@ This is why I will provide everything you need to know about myself here. What p
 ## This is me 👨
 
 * **Name**: Christoph Rumpel
-* **Birthdate**: 12.04.1095
+* **Birthdate**: 12.04.1985
 * **E-Mail**: c.rumpel@kabsi.at
 * **Blog**: http://christoph-rumpel.com
 * **Twitter**: https://twitter.com/christophrumpel
