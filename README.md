@@ -1,4 +1,4 @@
-# Christoph Rumepl CV
+# Christoph Rumpel CV
 
 Hey. I am not a fan of the traditional CVs with all kind of unnecessary information. 👎🏼
 This is why I will provide everything you need to know about myself here. What place could make a better fit for a developer than GitHub itself? 😅 For everything else you'd like to know, we can grab a beer or chat :-)
