@@ -1,7 +1,7 @@
 # Christoph Rumpel CV
 
-Hey. I am not a fan of the traditional CVs with all kind of unnecessary information. 👎🏼
-This is why I will provide everything you need to know about myself here. What place could make a better fit for a developer than GitHub itself? 😅 For everything else you'd like to know, we can grab a beer or chat :-)
+Hey, I'm Christoph and this is my story. Not all of it, but everything work-related. I am not a fan of the traditional CVs with all kind of unnecessary information. 👎🏼
+This is why I will provide everything you need to know about myself here. What place could make a better fit for a developer than GitHub itself? 😅 For everything else you'd like to know, I'm happy to grab a beer together or chat :-)
 
 *Note: If you don't like Emojis, this will be hard for you*
 
