@@ -34,7 +34,7 @@ This is why I will provide everything you need to know about myself here. What p
 
 ### Blogging 📝
 
-* I do blog about PHP, chatbots and everything in-between on my personal [blog](http://christoph-rumpel.com)
+* I do blog about PHP, Laravel, chatbots and everything in-between on my personal [blog](http://christoph-rumpel.com)
 * I have blogged several years for the [Liechtenecker Blog](https://liechtenecker.at/blog) (German)
 
 ### Talks 💬
