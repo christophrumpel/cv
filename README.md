@@ -19,9 +19,9 @@ This is why I will provide everything you need to know about myself here. What p
 
 ## Work experience 👨‍💻
 
-2013 - 2017 Backend-Developer (Liechtenecker)[https://liechtenecker.at]
+2013 - 2017 Backend-Developer [Liechtenecker](https://liechtenecker.at)
 
-2012 - 2013 Frotend Freelancer
+2012 - 2013 Frontend Freelancer
 
 2011 and 2010 Internships at [LimeSoda](https://www.limesoda.com)
 
@@ -39,12 +39,12 @@ This is why I will provide everything you need to know about myself here. What p
 
 ### Talks 💬
 
-2016 I started to give meetup talks in Vienna. 2017 I did speak a lot about chatbots including several small to medium conferences.
+2016 I started to give meetup talks in Vienna. 2017 I did speak a lot about chatbots, also on several small to medium conferences.
 Checkout this [video](https://youtu.be/DbSNTjLszsM) of my last talk in Zagreb / Croatia or my [website](http://christoph-rumpel.com/talks) for more details on my talks.
 
 ## Specialization 🧐
 
-Since 2016 I have spent most of my time at Liechtenwork working with chatbots. We are among a view companies who already built several chatbots. Next to Facebook and Slack we also developed custom chatbots for websites.
+Since 2016 I have spent most of my time at Liechtenecker working with chatbots. We are among a view companies who already built several chatbots. Next to Facebook and Slack we also developed custom chatbots for websites.
 As I mentioned I also did several talks on my experiences on this topic so far.
 
 ### Chatbots I have built 🤖
