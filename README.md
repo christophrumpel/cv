@@ -11,7 +11,7 @@ This is why I will provide everything you need to know about myself here. What p
 
 * **Name**: Christoph Rumpel
 * **From**: Austria / Vienna
-* **Birthdate**: 12.04.1985
+* **Birthdate**: 1985-04-12
 * **E-Mail**: c.rumpel@kabsi.at
 * **Blog**: http://christoph-rumpel.com
 * **Twitter**: https://twitter.com/christophrumpel
@@ -34,7 +34,7 @@ This is why I will provide everything you need to know about myself here. What p
 
 ### Blogging 📝
 
-* I do blog about PHP, chatbots and everything inbetween on my personal [blog](http://christoph-rumpel.com)
+* I do blog about PHP, chatbots and everything in-between on my personal [blog](http://christoph-rumpel.com)
 * I have blogged several years for the [Liechtenecker Blog](https://liechtenecker.at/blog) (German)
 
 ### Talks 💬
@@ -44,7 +44,7 @@ Checkout this [video](https://youtu.be/DbSNTjLszsM) of my last talk in Zagreb / 
 
 ## Specialization 🧐
 
-Since 2016 I have spent most of my time at Liechtenecker working with chatbots. We are among a view companies who already built several chatbots. Next to Facebook and Slack we also developed custom chatbots for websites.
+Since 2016 I have spent most of my time at Liechtenecker working with chatbots. We are among a few companies who already built several chatbots. Next to Facebook and Slack we also developed custom chatbots for websites.
 As I mentioned I also did several talks on my experiences on this topic so far.
 
 ### Chatbots I have built 🤖
