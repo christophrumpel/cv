@@ -3,14 +3,16 @@
 Hey. I am not a fan of the traditional CVs with all kind of unnecessary information. 👎🏼
 This is why I will provide everything you need to know about myself here. What place could make a better fit than GitHub itself. For everything else you'd like to know, we can grab a beer or chat :-)
 
+*Note: If you don't like Emojis, this will be hard for you*
+
 ## This is me 👨
 
-Name: Christoph Rumpel
-Birthdate: 12.04.1095
-E-Mail: c.rumpel@kabsi.at
-Blog: http://christoph-rumpel.com
-Twitter: https://twitter.com/christophrumpel
-GitHub: https://github.com/christophrumpel
+* **Name**: Christoph Rumpel
+* **Birthdate**: 12.04.1095
+* **E-Mail**: c.rumpel@kabsi.at
+* **Blog**: http://christoph-rumpel.com
+* **Twitter**: https://twitter.com/christophrumpel
+* **GitHub**: https://github.com/christophrumpel
 
 ## Work experience 👨‍💻
 
@@ -22,7 +24,7 @@ GitHub: https://github.com/christophrumpel
 
 ## Open Source work 🤲🏼
 
-* One of the main [contributors](https://github.com/botman/botman/graphs/contributors) of [BotMan](https://botman.io/) (
+* One of the main [contributors](https://github.com/botman/botman/graphs/contributors) of [BotMan](https://botman.io/)
 * Since 2016 maintainer of [Laravel Twitter Notification Package](https://github.com/laravel-notification-channels/twitter)
 
 ## Talks and publications 🗣 🎤
@@ -44,8 +46,8 @@ As I mentioned I also did several talks on my experiences on this topic so far.
 
 ### Chatbots I have built so far
 
-* [NELA](https://liechtenecker.at/tools/nela/)
-* [TIM] (https://www.messenger.com/t/liechteneckers)
+* [NELA](https://liechtenecker.at/tools/nela/) (FB Messenger)
+* [TIM](https://www.messenger.com/t/liechteneckers) (FB Messenger)
 * [Klickmal](https://www.klickmal.at/mobilitaet/kfz-versicherung.html) (Website)
 * [Wiener Städtische](https://www.wienerstaedtische.at/) (Website)
 
