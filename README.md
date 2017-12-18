@@ -25,7 +25,7 @@ This is why I will provide everything you need to know about myself here. What p
 
 2011 and 2010 Internships at [LimeSoda](https://www.limesoda.com)
 
-## Open Source work 🤲🏼
+## Open Source work 🔮
 
 * One of the main [contributors](https://github.com/botman/botman/graphs/contributors) of [BotMan](https://botman.io/) (Multiplatform Chatbot PHP library)
 * Since 2016 maintainer of [Laravel Twitter Notification Package](https://github.com/laravel-notification-channels/twitter)
@@ -42,7 +42,7 @@ This is why I will provide everything you need to know about myself here. What p
 2016 I started to give meetup talks in Vienna. 2017 I did speak a lot about chatbots, also on several small to medium conferences.
 Checkout this [video](https://youtu.be/DbSNTjLszsM) of my last talk in Zagreb / Croatia or my [website](http://christoph-rumpel.com/talks) for more details on my talks.
 
-## Specialization 🧐
+## Specialization 🖖🏼
 
 Since 2016 I have spent most of my time at Liechtenecker working with chatbots. We are among a few companies who already built several chatbots. Next to Facebook and Slack we also developed custom chatbots for websites.
 As I mentioned I also did several talks on my experiences on this topic so far.
