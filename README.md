@@ -1,7 +1,7 @@
 # Christoph Rumpel CV
 
 Hey, I'm Christoph and this is my story. Not all of it, but everything work-related. I am not a fan of the traditional CVs with all kind of unnecessary information. 👎🏼
-This is why I will provide everything you need to know about myself here. What place could make a better fit for a developer than GitHub itself? 😅 For everything else you'd like to know, I'm happy to grab a beer together or chat :-)
+This is why I provide everything you need to know about me here. What place could be more appropriate for this than GitHub? 😅 If there's anything else you'd like to know I´d be happy to chat with you over a beer
 
 *Note: If you don't like Emojis, this will be hard for you*
 
@@ -35,18 +35,18 @@ This is why I will provide everything you need to know about myself here. What p
 
 ### Blogging 📝
 
-* I do blog about PHP, Laravel, chatbots and everything in-between on my personal [blog](http://christoph-rumpel.com)
+* I blog about PHP, Laravel, chatbots and everything in-between on my personal [blog](http://christoph-rumpel.com)
 * I have blogged several years for the [Liechtenecker Blog](https://liechtenecker.at/blog) (German)
 
 ### Talks 💬
 
-2016 I started to give meetup talks in Vienna. 2017 I did speak a lot about chatbots, also on several small to medium conferences.
+2016 I started to give meetup talks in Vienna. 2017 I spoke a lot about chatbots in meetups as well as on several small to medium conferences like the WebCamp in Zagreb or the Christmage in Aachen.
 Checkout this [video](https://youtu.be/DbSNTjLszsM) of my last talk in Zagreb / Croatia or my [website](http://christoph-rumpel.com/talks) for more details on my talks.
 
 ## Specialization 🖖🏼
 
-Since 2016 I have spent most of my time at Liechtenecker working with chatbots. We are among a few companies who already built several chatbots. Next to Facebook and Slack we also developed custom chatbots for websites.
-As I mentioned I also did several talks on my experiences on this topic so far.
+Since 2016 I have spent most of my time at Liechtenecker working with chatbots. Lichtenecker is among the few companies who already built several chatbots for Austrian companies. Besides Facebook and Slack we also developed custom chatbots and chatbot interfaces for website integrations.
+As I mentioned earlier I also did several talks on my experiences on this topic so far.
 
 ### Chatbots I have built 🤖
 
@@ -65,6 +65,7 @@ As I mentioned I also did several talks on my experiences on this topic so far.
 * Laravel
 * JavaScript (Vanilla, VueJS, AngularJS, Gulp, Webpack)
 * Digital Ocean
+* Linux
 * DialogFlow (NLP)
 
 ## Clean and tested code example
