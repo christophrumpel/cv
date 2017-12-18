@@ -27,6 +27,7 @@ This is why I will provide everything you need to know about myself here. What p
 
 ## Open Source work 🔮
 
+* Co-Organizer [Laravel Vienna Meetup](https://www.meetup.com/Laravel-Frameworkers-Vienna/)
 * One of the main [contributors](https://github.com/botman/botman/graphs/contributors) of [BotMan](https://botman.io/) (Multiplatform Chatbot PHP library)
 * Since 2016 maintainer of [Laravel Twitter Notification Package](https://github.com/laravel-notification-channels/twitter)
 
