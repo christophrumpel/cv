@@ -54,6 +54,7 @@ As I mentioned earlier I also did several talks on my experiences on this topic 
 * [TIM](https://www.messenger.com/t/liechteneckers) (FB Messenger)
 * [Klickmal](https://www.klickmal.at/mobilitaet/kfz-versicherung.html) (Website)
 * [Wiener Städtische](https://www.wienerstaedtische.at/) (Website)
+* [Newsletter Chatbot for my book](https://christoph-rumpel.com/build-chatbots-with-php) (Website / FB Messenger)
 
 ## Tools I work with every day 🛠
 
