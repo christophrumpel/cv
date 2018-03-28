@@ -13,7 +13,7 @@ This is why I provide everything you need to know about me here. What place coul
 * **From**: Austria / Vienna
 * **Birthdate**: 1985-04-12
 * **E-Mail**: c.rumpel@kabsi.at
-* **Blog**: http://christoph-rumpel.com
+* **Blog**: https://christoph-rumpel.com
 * **Twitter**: https://twitter.com/christophrumpel
 * **GitHub**: https://github.com/christophrumpel
 
