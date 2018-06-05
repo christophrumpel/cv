@@ -55,6 +55,7 @@ As I mentioned earlier I also did several talks on my experiences on this topic 
 * [Klickmal](https://www.klickmal.at/mobilitaet/kfz-versicherung.html) (Website)
 * [Wiener Städtische](https://www.wienerstaedtische.at/) (Website)
 * [Newsletter Chatbot for my book](https://christoph-rumpel.com/build-chatbots-with-php) (Website / FB Messenger)
+* [Laravel Quiz Chatbot](https://christoph-rumpel.com/2018/05/how-i-built-the-laravelquiz-chatbot-with-botman-and-laravel) (Telegram)
 
 ## Tools I work with every day 🛠
 
