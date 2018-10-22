@@ -51,12 +51,14 @@ As I mentioned earlier I also did several talks on my experiences on this topic 
 
 ### Chatbots I have built 🤖
 
-* [NELA](https://liechtenecker.at/tools/nela/) (FB Messenger)
-* [TIM](https://www.messenger.com/t/liechteneckers) (FB Messenger)
-* [Klickmal](https://www.klickmal.at/mobilitaet/kfz-versicherung.html) (Website)
-* [Wiener Städtische](https://www.wienerstaedtische.at/) (Website)
-* [Newsletter Chatbot for my book](https://christoph-rumpel.com/build-chatbots-with-php) (Website / FB Messenger)
-* [Laravel Quiz Chatbot](https://christoph-rumpel.com/2018/05/how-i-built-the-laravelquiz-chatbot-with-botman-and-laravel) (Telegram)
+* [NELA](https://liechtenecker.at/tools/nela/) (FB Messenger, 2016)
+* [TIM](https://www.messenger.com/t/liechteneckers) (FB Messenger, 2017)
+* [Klickmal](https://www.klickmal.at/mobilitaet/kfz-versicherung.html) (Website, 2017)
+* [Wiener Städtische](https://www.wienerstaedtische.at/) (Website, 2017)
+* [Newsletter Chatbot for my book](https://christoph-rumpel.com/build-chatbots-with-php) (Website / FB Messenger, 2018)
+* [Laravel Quiz Chatbot](https://christoph-rumpel.com/2018/05/how-i-built-the-laravelquiz-chatbot-with-botman-and-laravel) (Telegram, 2018)
+* [Laracon EU Conference Chatbot](https://christoph-rumpel.com/2018/10/my-laracon-eu-conference-chatbot-recap
+) (Facebook and Telegram, 2018)
 
 ## Tools I work with every day 🛠
 
