@@ -18,6 +18,7 @@ This is why I provide everything you need to know about me here. What place coul
 * **GitHub**: https://github.com/christophrumpel
 
 ## Work experience 👨‍💻
+Since 2018 self-employed
 
 2013 - 2017 Backend-Developer [Liechtenecker](https://liechtenecker.at)
 
