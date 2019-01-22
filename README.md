@@ -28,6 +28,7 @@ Since 2018 self-employed
 
 ## Open Source work 🔮
 
+* [Laravel Core Adventures](https://laravelcoreadventures.com/) - A free video course on how Laravel works under the hood
 * Co-Organizer [Laravel Vienna Meetup](https://www.meetup.com/Laravel-Frameworkers-Vienna/)
 * One of the main [contributors](https://github.com/botman/botman/graphs/contributors) of [BotMan](https://botman.io/) (Multiplatform Chatbot PHP library)
 * Since 2016 maintainer of [Laravel Twitter Notification Package](https://github.com/laravel-notification-channels/twitter)
