@@ -1,7 +1,7 @@
 # Christoph Rumpel CV
 
 Hey, I'm Christoph and this is my story. Not all of it, but everything work-related. I am not a fan of the traditional CVs with all kind of unnecessary information. 👎🏼
-This is why I provide everything you need to know about me here. What place could be more appropriate for this than GitHub? 😅 If there's anything else you'd like to know I´d be happy to chat with you over a beer.
+This is why I provide everything you need to know about me here. What place could be more appropriate for a developer than GitHub? 😅 If there's anything else you'd like to know I´d be happy to chat with you over a beer.
 
 *Note: If you don't like Emojis, this will be hard for you*
 
@@ -18,6 +18,7 @@ This is why I provide everything you need to know about me here. What place coul
 * **GitHub**: https://github.com/christophrumpel
 
 ## Work experience 👨‍💻
+
 Since 2018 self-employed
 
 2013 - 2017 Backend-Developer [Liechtenecker](https://liechtenecker.at)
@@ -42,13 +43,15 @@ Since 2018 self-employed
 
 ### Talks 💬
 
-2016 I started to give meetup talks in Vienna. 2017 I spoke a lot about chatbots in meetups as well as on several small to medium conferences like the WebCamp in Zagreb or the Christmage in Aachen.
-Checkout this [video](https://youtu.be/DbSNTjLszsM) of my last talk in Zagreb / Croatia or my [website](http://christoph-rumpel.com/talks) for more details on my talks.
+In 2016 I started to give meetup talks in Vienna. Since then, speaking has become an important part of my work. In 2018, I have spoken on 12 different conferences and meetups in five different countries.
+Checkout this [video](https://www.youtube.com/watch?v=IDoQ5fLLURg) of my talk in Kiew / Ukraine or my [website](http://christoph-rumpel.com/talks) for more details on my talks.
 
 ## Specialization 🖖🏼
 
 Since 2016 I have spent most of my time at Liechtenecker working with chatbots. Lichtenecker is among the few companies who already built several chatbots for Austrian companies. Besides Facebook and Slack we also developed custom chatbots and chatbot interfaces for website integrations.
 As I mentioned earlier I also did several talks on my experiences on this topic so far and I am currently writing the book "[Build Chatbots with PHP](https://christoph-rumpel.com/build-chatbots-with-php)".
+
+Generally speaking, PHP and Laravel are the tools I use everday and what I know best.
 
 ### Chatbots I have built 🤖
 
@@ -69,7 +72,7 @@ As I mentioned earlier I also did several talks on my experiences on this topic 
 * PHP 5 / 7
 * PhpStorm
 * Laravel
-* JavaScript (Vanilla, VueJS, AngularJS, Gulp, Webpack)
+* JavaScript (Vanilla, VueJS, AngularJS, Webpack)
 * Digital Ocean
 * Linux
 * DialogFlow (NLP)
