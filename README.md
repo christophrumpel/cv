@@ -1,7 +1,7 @@
 # Christoph Rumpel CV
 
-Hey, I'm Christoph and this is my story. Not all of it, but everything work-related. I am not a fan of the traditional CVs with all kind of unnecessary information. 👎🏼
-This is why I provide everything you need to know about me here. What place could be more appropriate for a developer than GitHub? 😅 If there's anything else you'd like to know I´d be happy to chat with you over a beer.
+Hey, I'm Christoph, and this is my story. Not all of it, but everything work-related. I am not a fan of the traditional CVs with all kind of unnecessary information. 👎🏼
+This is why I provide everything you need to know about me here. What place could be more appropriate for a developer than GitHub? 😅 If there's anything else, you'd like to know I´d be happy to chat with you over a beer.
 
 *Note: If you don't like Emojis, this will be hard for you*
 
@@ -38,22 +38,22 @@ Since 2018 self-employed
 
 ### Blogging 📝
 
-* I blog about PHP, Laravel, chatbots and everything in-between on my personal [blog](http://christoph-rumpel.com)
+* I blog about PHP, Laravel, chatbots, and everything in-between on my personal [blog](http://christoph-rumpel.com)
 * I have blogged several years for the [Liechtenecker Blog](https://liechtenecker.at/blog) (German)
 
 ### Talks 💬
 
-In 2016 I started to give meetup talks in Vienna. Since then, speaking has become an important part of my work. In 2018, I have spoken on 12 different conferences and meetups in five different countries.
-Checkout this [video](https://www.youtube.com/watch?v=IDoQ5fLLURg) of my talk in Kiew / Ukraine or my [website](http://christoph-rumpel.com/talks) for more details on my talks.
+In 2016 I started to give meetup talks in Vienna. Since then, speaking has become an essential part of my work. In 2018, I spoke on 12 different conferences and meetups in five different countries.
+Check out this [video](https://www.youtube.com/watch?v=IDoQ5fLLURg) of my talk in Kiew / Ukraine or my [website](http://christoph-rumpel.com/talks) for more details on my talks.
 
 ## Specialization 🖖🏼
 
 ### Chatbots 🤖
 
-Since 2016 I have spent most of my time at Liechtenecker working with chatbots. Lichtenecker is among the few companies who already built several chatbots for Austrian companies. Besides Facebook and Slack we also developed custom chatbots and chatbot interfaces for website integrations.
-As I mentioned earlier I also did several talks on my experiences on this topic so far and I have writen an e-book called "[Build Chatbots with PHP](https://christoph-rumpel.com/build-chatbots-with-php)".
+Since 2016 I have spent most of my time at Liechtenecker working with chatbots. Lichtenecker is among the few companies who already built several chatbots for Austrian companies. Besides Facebook and Slack, we also developed custom chatbots and chatbot interfaces for website integrations.
+As I mentioned earlier, I also did several talks on my experiences on this topic so far, and I have written an e-book called "[Build Chatbots with PHP](https://christoph-rumpel.com/build-chatbots-with-php)".
 
-Generally speaking, PHP and Laravel are the tools I use everday and what I know best.
+Generally speaking, PHP and Laravel are the tools I use every day and what I know best.
 
 Chatbots I have built:
 
@@ -68,7 +68,7 @@ Chatbots I have built:
 
 ### Laravel 🖼
 
-I've been using the PHP framework Laravel now for many years. Laravel is a fascinating and complex piece of software. It helps us to work fast, solid and secure on our modern PHP applications. My latest project, is free video series about the core of Laravel called [Laravel Core Adventures](https://laravelcoreadventures.com).
+I've been using the PHP framework Laravel now for many years. Laravel is a fascinating and complex piece of software. It helps us to work fast, solid and secure on our modern PHP applications. My latest project is a free video series about the core of Laravel called [Laravel Core Adventures](https://laravelcoreadventures.com).
 
 ## Tools I work with every day 🛠
 
