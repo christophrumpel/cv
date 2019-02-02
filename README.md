@@ -48,12 +48,14 @@ Checkout this [video](https://www.youtube.com/watch?v=IDoQ5fLLURg) of my talk in
 
 ## Specialization 🖖🏼
 
+### Chatbots 🤖
+
 Since 2016 I have spent most of my time at Liechtenecker working with chatbots. Lichtenecker is among the few companies who already built several chatbots for Austrian companies. Besides Facebook and Slack we also developed custom chatbots and chatbot interfaces for website integrations.
 As I mentioned earlier I also did several talks on my experiences on this topic so far and I have writen an e-book called "[Build Chatbots with PHP](https://christoph-rumpel.com/build-chatbots-with-php)".
 
 Generally speaking, PHP and Laravel are the tools I use everday and what I know best.
 
-### Chatbots I have built 🤖
+Chatbots I have built:
 
 * [NELA](https://liechtenecker.at/tools/nela/) (FB Messenger, 2016)
 * [TIM](https://www.messenger.com/t/liechteneckers) (FB Messenger, 2017)
@@ -63,6 +65,10 @@ Generally speaking, PHP and Laravel are the tools I use everday and what I know 
 * [Laravel Quiz Chatbot](https://christoph-rumpel.com/2018/05/how-i-built-the-laravelquiz-chatbot-with-botman-and-laravel) (Telegram, 2018)
 * [Laracon EU Conference Chatbot](https://christoph-rumpel.com/2018/10/my-laracon-eu-conference-chatbot-recap
 ) (Facebook and Telegram, 2018)
+
+### Laravel 🖼
+
+I've been using the PHP framework Laravel now for many years. Laravel is a fascinating and complex piece of software. It helps us to work fast, solid and secure on our modern PHP applications. My latest project, is free video series about the core of Laravel called [Laravel Core Adventures](https://laravelcoreadventures.com).
 
 ## Tools I work with every day 🛠
 
