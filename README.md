@@ -49,7 +49,7 @@ Checkout this [video](https://www.youtube.com/watch?v=IDoQ5fLLURg) of my talk in
 ## Specialization 🖖🏼
 
 Since 2016 I have spent most of my time at Liechtenecker working with chatbots. Lichtenecker is among the few companies who already built several chatbots for Austrian companies. Besides Facebook and Slack we also developed custom chatbots and chatbot interfaces for website integrations.
-As I mentioned earlier I also did several talks on my experiences on this topic so far and I am currently writing the book "[Build Chatbots with PHP](https://christoph-rumpel.com/build-chatbots-with-php)".
+As I mentioned earlier I also did several talks on my experiences on this topic so far and I have writen an e-book called "[Build Chatbots with PHP](https://christoph-rumpel.com/build-chatbots-with-php)".
 
 Generally speaking, PHP and Laravel are the tools I use everday and what I know best.
 
